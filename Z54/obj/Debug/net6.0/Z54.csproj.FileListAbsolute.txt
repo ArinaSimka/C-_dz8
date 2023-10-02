@@ -1,0 +1,15 @@
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\bin\Debug\net6.0\Z54.exe
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\bin\Debug\net6.0\Z54.deps.json
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\bin\Debug\net6.0\Z54.runtimeconfig.json
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\bin\Debug\net6.0\Z54.dll
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\bin\Debug\net6.0\Z54.pdb
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\obj\Debug\net6.0\Z54.csproj.AssemblyReference.cache
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\obj\Debug\net6.0\Z54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\obj\Debug\net6.0\Z54.AssemblyInfoInputs.cache
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\obj\Debug\net6.0\Z54.AssemblyInfo.cs
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\obj\Debug\net6.0\Z54.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\obj\Debug\net6.0\Z54.dll
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\obj\Debug\net6.0\refint\Z54.dll
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\obj\Debug\net6.0\Z54.pdb
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\obj\Debug\net6.0\Z54.genruntimeconfig.cache
+C:\Users\фвьшт\Desktop\С#\dz8\Z54\obj\Debug\net6.0\ref\Z54.dll
